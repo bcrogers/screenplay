@@ -47,7 +47,7 @@ GEM
       ffi (~> 1.0)
     rouge (3.13.0)
     shellany (0.0.1)
-    thor (1.0.1)
+    thor (1.4.0)
     yajl-ruby (1.4.1)
 
 PLATFORMS
